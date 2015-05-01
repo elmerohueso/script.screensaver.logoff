@@ -1,4 +1,4 @@
-Version 1.1
+Version 1.1.0
 - Higher resolution icon
 - Added fanart
 - Submission to official repo
